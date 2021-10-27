@@ -1,0 +1,3 @@
+C:\Users\gsree\Azure\App services\sreetechappb7\bin\Debug\net5.0\sreetechappb7.exe
+C:\Users\gsree\Azure\App services\sreetechappb7\bin\Debug\net5.0\sreetechappb7.dll
+C:\Users\gsree\Azure\App services\sreetechappb7\bin\Debug\net5.0\sreetechappb7.Views.dll
